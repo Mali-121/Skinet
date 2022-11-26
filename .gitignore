@@ -1,0 +1,6 @@
+obj
+bin
+appsettings.json
+Infrastructure1
+Core1
+*.db
